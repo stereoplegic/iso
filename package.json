@@ -45,7 +45,6 @@
     "lodash.camelcase": "^4.3.0",
     "lodash.debounce": "^4.0.8",
     "mini-html-webpack-plugin": "^0.2.3",
-    "node-mac-notifier": "^0.1.0",
     "opn": "^5.1.0",
     "prop-types": "^15.6.0",
     "react": "^16.3.2",
